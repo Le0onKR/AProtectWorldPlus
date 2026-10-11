@@ -1,0 +1,11 @@
+name: AProtectWorldPlus
+author: AidenKR
+version: 1.0.0
+api-version: 1.21.11
+main: dev.AidenKR.AProtectWorldPlus.AProtectWorldPlus
+
+github: https://github.com/Le0onKR
+
+permissions:
+  protect.world.command:
+    default: op
